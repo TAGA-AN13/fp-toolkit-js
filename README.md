@@ -30,21 +30,21 @@ This project demonstrates core functional programming concepts including pure fu
 
 
 
-\## How to Run
+## How to Run
 
 
 
 ```bash
-
 node index.js
-
 node tests/arrayUtils.test.js
+```
 
 
 
-\## Author
+## Author
 
 
 
-\[Louie Taga-an] - \[02-24-0321]
+Louie Taga-an - 02-24-0321
+
 
