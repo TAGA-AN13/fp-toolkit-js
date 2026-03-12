@@ -1,21 +1,16 @@
-\# FP Toolkit JS
-
+# FP Toolkit JS
 
 
 A functional programming utility toolkit built with JavaScript.
 
 
-
-\## Description
-
+## Description
 
 
 This project demonstrates core functional programming concepts including pure functions, immutability, higher-order functions, function composition, and currying.
 
 
-
-\## Project Structure
-
+## Project Structure
 
 
 \- `src/arrayUtils.js` - Array transformation utilities
@@ -29,9 +24,7 @@ This project demonstrates core functional programming concepts including pure fu
 \- `tests/` - Test files for all modules
 
 
-
 ## How to Run
-
 
 
 ```bash
@@ -40,9 +33,7 @@ node tests/arrayUtils.test.js
 ```
 
 
-
 ## Author
-
 
 
 Louie Taga-an - 02-24-0321
